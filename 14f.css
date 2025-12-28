@@ -1,0 +1,56 @@
+.sidebar-profile{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgb(33, 33, 33);
+    padding: 10px;
+    width: 60px;
+}
+
+.img-1{
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.img-2{
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
+.sidebar-desc{
+    position: fixed;
+    left: 80px;
+    top: 0;
+    bottom: 0;
+    background-color: rgb(55, 55, 55);
+    width: 200px;
+    padding: 10px;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info-div{
+    font-size: small;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.sm-letter{
+    color: rgb(150, 150, 150);
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    font-size: small;
+}

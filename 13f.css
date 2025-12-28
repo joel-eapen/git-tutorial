@@ -1,0 +1,74 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.profile-pic{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.desc{
+    margin-left: 15px;
+}
+
+.handle{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.t-handle{
+    color: gray;
+    font-size: small;
+    margin-bottom: 0;
+}
+
+.body{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+}
+
+.row-2{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: gray;
+    height: 75px;
+    width: 350px;
+    margin-top: 5px;
+}
+
+.preview{
+    background-color: gray;
+    width: 75px;
+    border-radius: 8px;
+    
+}
+
+.text{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: gray;
+    margin-bottom: 0;
+}
+
+.text-body{
+    font-size: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    margin-top: 5px;
+}
